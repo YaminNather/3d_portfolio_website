@@ -29,7 +29,7 @@ export const Background : FC = function(props) {
                 }
             );
         },
-        [scene, camera]
+        []
     );
 
 
